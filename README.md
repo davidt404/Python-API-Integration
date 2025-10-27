@@ -5,7 +5,7 @@ Lightweight Python script for performing authenticated REST API calls and displa
 ## Features
 - Authenticated `GET` request using Bearer token  
 - Error handling for timeouts and bad responses  
-- Pretty-printed JSON output  
+- JSON output  
 - Timestamped success log  
 
 ##  Usage
